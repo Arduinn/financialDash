@@ -1,0 +1,53 @@
+
+/* General Settings */
+
+body {
+    background-color: #F2F2F7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* Header Settings */
+
+.app-header {
+    height: 280px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+    background-color: #2A3A54;
+    color: white;
+}
+
+H1.app-header--title {
+    font-size: 80px;
+    text-align: center;
+    padding-top: 3%;
+    border: 5px solid red;
+}
+
+H2.app-header--subtitle {
+    font-size: 40px;
+    text-align: center;
+    line-height: 12px;
+    border: 5px solid green;
+}
+
+
+/* Body Settings */
+
+.app-body--tables{
+    width: 40%;
+    display: inline-block;
+    margin-top: 43px;
+    margin-left: 3%;
+    padding: 10px;
+    border: 5px solid purple;
+    background-color: #A0CDE5;
+}
+
+.app-body--acoes{
+    padding: 20px;
+    background-color: white; 
+    margin: 3%;
+    margin-bottom: auto;
+    border: 5px solid purple;
+    background-color: #A0CDE5;
+}
